@@ -15,7 +15,7 @@
 
 ---
 
-## 🚀 İlerleme kaydettiğim ve şuanda Öğrendiğim Teknolojiler
+## 🚀 İlerleme kaydettiğim ve şuanda öğrendiğim teknolojiler
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
