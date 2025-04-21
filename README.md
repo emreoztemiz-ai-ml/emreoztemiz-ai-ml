@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba, ben Emre! 👋</h1>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/emreoztemiz-ai-ml/emre-svg/main/emre.svg" width="300" />
+  <img src="https://raw.githubusercontent.com/emreoztemiz-ai-ml/emreoztemiz-ai-ml/912ccf1ccc76fc2c963530632e5e28c9edeec69e/emreoztemiz.svg" width="300" />
 </p>
 
 ---
